@@ -1,0 +1,108 @@
+RESUME
+
+Name: Rahul Sharma
+Email: rahul.sharma@example.com
+Phone: +91-9876543210
+GitHub: https://github.com/rahulsharma-dev
+LinkedIn: https://www.linkedin.com/in/rahul-sharma-dev
+
+CAREER OBJECTIVE
+
+Motivated B.Tech Computer Science student with a strong interest in Artificial Intelligence, Machine Learning, Python, and Web Development. Looking for opportunities to apply technical knowledge, build practical projects, and improve problem-solving skills while contributing to real-world software solutions.
+
+EDUCATION
+
+Bachelor of Technology (B.Tech) – Computer Science and Engineering
+ABC University, Uttar Pradesh
+2023 – 2027
+CGPA: 8.12/10
+
+Class 12th – CBSE
+Delhi Public School
+2023
+Percentage: 84%
+
+Class 10th – CBSE
+Delhi Public School
+2021
+Percentage: 88%
+
+TECHNICAL SKILLS
+
+Programming Languages:
+- Python
+- C
+- Java
+- SQL
+
+AI / ML:
+- Machine Learning Basics
+- Pandas
+- NumPy
+- Data Preprocessing
+- Exploratory Data Analysis
+
+Web Development:
+- HTML
+- CSS
+- JavaScript
+- Basic Flask
+
+Tools:
+- VS Code
+- Git
+- GitHub
+- Jupyter Notebook
+- MySQL
+
+PROJECTS
+
+1. AI Resume Portfolio Generator
+
+Developed a Python-based application that reads resume information and generates structured portfolio content using Generative AI. The project uses an AI API to extract information such as education, skills, projects, achievements, and contact details and converts the data into a professional portfolio webpage.
+
+Technologies:
+Python, Generative AI, HTML, CSS, JSON
+
+2. Student Attendance Management System
+
+Created a simple web-based application for maintaining student attendance records. The system allows users to add student information, update attendance, and view attendance statistics.
+
+Technologies:
+HTML, CSS, JavaScript, Python, SQLite
+
+3. Bus Route Finder
+
+Developed a prototype that helps students find buses based on their destination and available routes. The application compares the user's destination with available bus routes and displays matching buses.
+
+Technologies:
+Python, JSON, HTML, CSS, JavaScript
+
+CERTIFICATIONS
+
+- Python Programming Fundamentals
+- Introduction to Machine Learning
+- Microsoft Azure Fundamentals
+- SQL for Beginners
+
+ACHIEVEMENTS
+
+- Participated in college-level hackathons.
+- Built multiple academic and personal programming projects.
+- Participated in coding competitions.
+- Worked on an AI-based project for portfolio generation.
+
+INTERESTS
+
+- Artificial Intelligence
+- Machine Learning
+- Software Development
+- Problem Solving
+- Competitive Programming
+
+CONTACT
+
+Email: rahul.sharma@example.com
+Phone: +91-9876543210
+GitHub: https://github.com/rahulsharma-dev
+LinkedIn: https://www.linkedin.com/in/rahul-sharma-dev

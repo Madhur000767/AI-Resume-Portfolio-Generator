@@ -1,0 +1,93 @@
+{
+    "name": "Rahul Sharma",
+    "headline": "B.Tech Computer Science Student",
+    "summary": "Motivated B.Tech Computer Science student with a strong interest in Artificial Intelligence, Machine Learning, Python, and Web Development. Looking for opportunities to apply technical knowledge, build practical projects, and improve problem-solving skills while contributing to real-world software solutions.",
+    "skills": [
+        "Python",
+        "C",
+        "Java",
+        "SQL",
+        "Machine Learning Basics",
+        "Pandas",
+        "NumPy",
+        "Data Preprocessing",
+        "Exploratory Data Analysis",
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "Flask",
+        "VS Code",
+        "Git",
+        "GitHub",
+        "Jupyter Notebook",
+        "MySQL"
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Technology (B.Tech) – Computer Science and Engineering",
+            "institution": "ABC University, Uttar Pradesh",
+            "year": "2023 – 2027",
+            "score": "8.12/10"
+        },
+        {
+            "degree": "Class 12th – CBSE",
+            "institution": "Delhi Public School",
+            "year": "2023",
+            "score": "84%"
+        },
+        {
+            "degree": "Class 10th – CBSE",
+            "institution": "Delhi Public School",
+            "year": "2021",
+            "score": "88%"
+        }
+    ],
+    "experience": [],
+    "projects": [
+        {
+            "title": "AI Resume Portfolio Generator",
+            "description": "Developed a Python-based application that reads resume information and generates structured portfolio content using Generative AI. The project uses an AI API to extract information such as education, skills, projects, achievements, and contact details and converts the data into a professional portfolio webpage.",
+            "technologies": [
+                "Python",
+                "Generative AI",
+                "HTML",
+                "CSS",
+                "JSON"
+            ]
+        },
+        {
+            "title": "Student Attendance Management System",
+            "description": "Created a simple web-based application for maintaining student attendance records. The system allows users to add student information, update attendance, and view attendance statistics.",
+            "technologies": [
+                "HTML",
+                "CSS",
+                "JavaScript",
+                "Python",
+                "SQLite"
+            ]
+        },
+        {
+            "title": "Bus Route Finder",
+            "description": "Developed a prototype that helps students find buses based on their destination and available routes. The application compares the user's destination with available bus routes and displays matching buses.",
+            "technologies": [
+                "Python",
+                "JSON",
+                "HTML",
+                "CSS",
+                "JavaScript"
+            ]
+        }
+    ],
+    "achievements": [
+        "Participated in college-level hackathons.",
+        "Built multiple academic and personal programming projects.",
+        "Participated in coding competitions.",
+        "Worked on an AI-based project for portfolio generation."
+    ],
+    "contact": {
+        "email": "rahul.sharma@example.com",
+        "phone": "+91-9876543210",
+        "github": "https://github.com/rahulsharma-dev",
+        "linkedin": "https://www.linkedin.com/in/rahul-sharma-dev"
+    }
+}
