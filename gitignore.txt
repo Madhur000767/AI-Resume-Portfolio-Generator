@@ -1,0 +1,15 @@
+# Environment variables (contains the real API key)
+.env
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Generated output (optional - keep if you want a sample committed)
+# portfolio.html
